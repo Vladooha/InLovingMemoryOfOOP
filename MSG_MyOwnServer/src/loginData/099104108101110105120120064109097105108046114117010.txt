@@ -1,0 +1,3 @@
+-email chlenixx@mail.ru
+-pass ded1337ded
+-nick Sasatel
